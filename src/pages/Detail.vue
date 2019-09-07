@@ -30,57 +30,57 @@
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       MODEL No.
                     </div>
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       IEC
                     </div>
                   </div>
                 </div>
                 <div class="col-2 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       DIMENSION (mm)
                     </div>
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       VOLTAGE (v)
                     </div>
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       LOADING
                     </div>
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       DURATION
                     </div>
                   </div>
                 </div>
                 <div class="col-1 d-flex align-items-stretch">
-                  <div class="text-center w-full block">
-                    <div class="f-12 mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block d-flex align-items-center justify-content-center pt-20 pb-20">
+                    <div class="f-12 text-adaptive semibold">
                       AVERAGE WEIGHT
                     </div>
                   </div>
                 </div>
                 <div class="col-2 d-flex align-items-stretch">
-                  <div class="text-center w-full block noborder_right">
-                    <div class="mt-2 text-adaptive semibold">
+                  <div class="text-center w-full block noborder_right d-flex align-items-center justify-content-center">
+                    <div class="f-12 text-adaptive semibold">
                       SPEC
                     </div>
                   </div>
@@ -88,7 +88,7 @@
               </div>
               <div class="row no-gutters table_row">
                 <div class="col-2 d-flex align-items-stretch">
-                  <div class="pt-20 pb-20 text-center w-full d-flex align-items-center justify-content-center block">
+                  <div class="pt-20 pb-20 text-center w-full block d-flex bl-2 align-items-center justify-content-center">
                     <img src="images/once1-1.jpg" alt="">
                   </div>
                 </div>
@@ -142,7 +142,7 @@
                   </div>
                 </div>
                 <div class="col-2 d-flex align-items-stretch">
-                  <div class="pt-20 pb-15 text-center w-full block d-flex align-items-center justify-content-center noborder_right">
+                  <div class="pt-20 pb-15 text-center w-full block d-flex align-items-center justify-content-center br-2">
                     <div class="d-inline-block f-14 relative">
                       <i class="far fa-3x fa-file-pdf"></i>
                     </div>

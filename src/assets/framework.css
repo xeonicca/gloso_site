@@ -9532,7 +9532,7 @@ input[type=radio] + label:before {
   color: #4d4f78;
 }
 .color-heading {
-  color: #aeaec1;
+  color: #88889e;
 }
 .color-heading.link:hover {
   color: #747495;
@@ -9608,6 +9608,12 @@ input[type=radio] + label:before {
   background-color: #f6d039;
 }
 /* Border-radiuses */
+.bl-2 {
+  border-left: 2px solid #dfdff1;;
+}
+.br-2 {
+  border-right: 2px solid #dfdff1;;
+}
 .radius4 {
   border-radius: 4px;
 }

@@ -22,8 +22,8 @@
         </div>
         <div class="row">
           <Category />
-          <div class="mt-20 col-xl-8 col-lg-9 products">
-            <div class="row">
+          <div class="mt-20 col-xl-8 col-lg-9 ecommerce_21 category">
+            <div class="row justify-content-center products">
               <template v-for="subcategory in subcategoryList">
                 <Subcategory :subcategory="subcategory" />
               </template>
