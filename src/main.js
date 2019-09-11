@@ -3,8 +3,7 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/bootstrap.min.css'
-import '~/assets/framework.css'
-import '~/assets/style.css'
+import '~/assets/style.scss'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -12,7 +11,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,600,500,700,800,900|Poppins:100,200,300,400,500,600,700,800,900&amp;subset=latin',
+    href: 'https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600,500,700,800,900|Poppins:100,200,300,400,500,600,700,800,900&amp;subset=latin',
+  })
+
+  head.link.push({
+    rel: 'stylesheet',
+    href: 'https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,600,500,700,800,900|Poppins:100,200,300,400,500,600,700,800,900&amp;subset=latin',
   })
 
   head.link.push({

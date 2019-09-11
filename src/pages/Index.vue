@@ -82,7 +82,7 @@
           <div class="col-xl-10">
             <h2 class="small">Our Strength</h2>
             <div class="mt-15 mb-70 f-22 color-heading text-adaptive decription">
-              Huge trendy collection od web screens and components. Fully customized. </div>
+              Huge trendy collection of web screens and components. Fully customized. </div>
           </div>
         </div>
         <div class="row justify-content-center text-center text-lg-left">
@@ -129,14 +129,14 @@
       <div class="container px-xl-0">
         <div class="row justify-content-center">
           <div class="col-xl-9 col-lg-10">
-            <img srcset="/images/call_to_action_7_img@2x.jpg 2x" src="/images/call_to_action_7_img.jpg" alt="" class="img-fluid radius30" />
+            <!-- <img srcset="/images/call_to_action_7_img@2x.jpg 2x" src="/images/call_to_action_7_img.jpg" alt="" class="img-fluid radius30" /> -->
             <h2 class="mt-30 mb-20 small">{{ $static.metaData.siteName }}</h2>
           </div>
           <div class="col-xl-4 col-lg-6 col-md-8 col-sm-10">
             <div class="color-heading text-adaptive">
               A high-quality solution for those who want a
               beautiful startup website quickly. </div>
-            <a href="#" class="mt-45 btn lg action-1">Check out Our Items</a>
+            <a href="#" class="mt-45 btn lg action-2">Contact Us</a>
           </div>
         </div>
       </div>

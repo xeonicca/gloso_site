@@ -7,7 +7,7 @@
             <img srcset="images/61675_W3.png 2x" src="images/61675_W3.png" alt="" class="h-full bg" width="400">
           </div>
           <div class="col-xl-5 col-lg-6 col-md-7 pt-100 pb-100 inner">
-            <div class="f-14 text-uppercase semibold sp-20 subtitle text-adaptive">Alkaline Batteries</div>
+            <div class="f-14 text-uppercase semibold sp-20 subtitle text-adaptive">Primary Batteries</div>
             <h2 class="mt-10 mb-10 small">Alkaline Batteries</h2>
             <div class="f-18 medium op-7 text-adaptive">
               Customized cotton pullover hoodies with <br>
@@ -86,7 +86,7 @@
                   </div>
                 </div>
               </div>
-              <div class="row no-gutters table_row">
+              <div class="row no-gutters table_row" v-for="i in 10">
                 <div class="col-2 d-flex align-items-stretch">
                   <div class="pt-20 pb-20 text-center w-full block d-flex bl-2 align-items-center justify-content-center">
                     <img src="images/once1-1.jpg" alt="">
@@ -144,7 +144,7 @@
                 <div class="col-2 d-flex align-items-stretch">
                   <div class="pt-20 pb-15 text-center w-full block d-flex align-items-center justify-content-center br-2">
                     <div class="d-inline-block f-14 relative">
-                      <i class="far fa-3x fa-file-pdf"></i>
+                      <i class="color-red far fa-3x fa-file-pdf"></i>
                     </div>
                   </div>
                 </div>
